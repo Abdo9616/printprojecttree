@@ -1,5 +1,5 @@
 {
-  "name": "@abdo9616/project-tree",
+  "name": "printprojecttree",
   "version": "2.0.0",
   "bin": {
     "project-tree": "index.js",
