@@ -1,5 +1,5 @@
 {
-  "name": "project-tree",
+  "name": "@abdo9616/project-tree",
   "version": "2.0.0",
   "bin": {
     "project-tree": "index.js",
@@ -18,6 +18,13 @@
   "keywords": [],
   "author": "Abdo9616",
   "license": "MIT",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdo9616/project-tree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Abdo9616/project-tree/issues"
+  },
+  "homepage": "https://github.com/Abdo9616/project-tree#readme"
 }
-
